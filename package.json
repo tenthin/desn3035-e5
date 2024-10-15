@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "lighthouse": "^12.2.1",
     "next": "^14.2.14",
     "puppeteer": "^23.5.3",
     "react": "^18.3.1",
